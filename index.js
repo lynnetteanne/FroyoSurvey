@@ -67,3 +67,4 @@ console.table(customer);
 // todaysPurchaseCost
 
 console.log(Object.keys(customer));
+
